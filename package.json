@@ -1,5 +1,5 @@
 {
-  "name": "persist-obj-provider",
+  "name": "@malpower/persist-obj-provider",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
